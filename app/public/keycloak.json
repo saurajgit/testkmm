@@ -1,0 +1,10 @@
+{
+  "realm": "master",
+  "auth-server-url": "http://localhost:8080/realms/master/protocol/openid-connect/auth?client_id=security-admin-console&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Fadmin%2Fmaster%2Fconsole%2F&state=f794777e-0e28-4c06-8a19-6fb92a57fabb&response_mode=fragment&response_type=code&scope=openid&nonce=e029f40c-2efe-44c6-b3a3-0c23ce74c344&code_challenge=f0dfkRmHZn0tOFoSZXgdAqmdm75Hqd_6MJElyB0OUp0&code_challenge_method=S256",
+  "ssl-required": "external",
+  "resource": "primereact-client",
+  "credentials": {
+    "secret": "4dbc4e64-97d2-4ed6-a0ca-98bc22e69575"
+  },
+  "confidential-port": 0
+}
